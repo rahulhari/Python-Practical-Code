@@ -1,0 +1,9 @@
+a=input("enter a number")
+b=input("enter the second number")
+c=input("enter the third number")
+large=a
+if(b>large):
+   large=b
+if(c>large):
+   large=c
+   print large
