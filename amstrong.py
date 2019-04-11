@@ -1,5 +1,5 @@
 a=input("enter the value to chek amstrong number ")
-s=0
+s=1
 while(a>0):
 	c=a%10
 	s=s+(c*c*c)
